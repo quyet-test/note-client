@@ -14,4 +14,5 @@ export default {
       IDENTITY_POOL_ID: "YOUR_IDENTITY_POOL_ID"
     },
     MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_2ZpDIgUyF4oyidSMQn1J3PDd00ItYWXmOH",
   };
